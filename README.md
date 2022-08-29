@@ -1,7 +1,7 @@
 # Matelaslux
 Management of warehouse and mattress orders MATELAS LUZ Argelia, based on PHP and MySQL, including an inventory system and order tracking.
 
-## Requisitos
+## Requirements and installation
 XAMPP
 Visual Studio Code With this extentions:
 * PHP
@@ -9,7 +9,7 @@ Visual Studio Code With this extentions:
 * CSS
     HTML, CSS, Bootstrap, MySQL
 
-## Version 1.1
+## Functionally
 This version has following functions:
 1 - Main administrator (Super-Admin).
 2 - Main delivery man.
@@ -22,10 +22,5 @@ This version has following functions:
 ```bash
 Matelaslux.com
 ```
-
-
-
-
-
 ## License
 [MIT](ZERROUKI SIFAQES)

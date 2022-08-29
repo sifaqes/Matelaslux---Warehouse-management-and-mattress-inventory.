@@ -9,8 +9,8 @@ This version has following functions:
 4 - Tracking Numbers.
 5 - Mail management.
 
-```bash
-The link : Matelaslux.com
+The link : ```bash
+Matelaslux.com
 ```
 
 ## License

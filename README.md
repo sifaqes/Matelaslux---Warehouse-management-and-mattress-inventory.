@@ -3,7 +3,7 @@ Management of warehouse and mattress orders MATELAS LUZ Argelia, based on PHP an
 
 ## Requisitos
 XAMPP
-Visual Studio Code 
+Visual Studio Code With this extentions:
 * PHP
 * HTML
 * CSS

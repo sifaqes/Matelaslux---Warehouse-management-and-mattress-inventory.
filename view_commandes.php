@@ -1,7 +1,7 @@
 <?php
 include_once 'includes/db_connect.php';
 include_once 'includes/functions.php';
-// session start
+// session start v1
 sec_session_start();
 ?>
 <!DOCTYPE html>

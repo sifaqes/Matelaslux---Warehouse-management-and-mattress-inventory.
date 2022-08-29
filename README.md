@@ -2,15 +2,12 @@
 Management of warehouse and mattress orders MATELAS LUZ Argelia, based on PHP and MySQL, including an inventory system and order tracking.
 
 ## Requisitos
-XAMPP
-MySQL
-Visual Studio Code 
-*PHP
-*HTML
-*CSS
-Bootstrap
-HTML,CSS
-
+    XAMPP
+    Visual Studio Code 
+* PHP
+* HTML
+* CSS
+    HTML, CSS, Bootstrap, MySQL
 
 ## Version 1.1
 This version has following functions:
